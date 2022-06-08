@@ -1,0 +1,17 @@
+2022/06/08-13:04:20.258 1d0c Reusing MANIFEST C:\Users\Seven\Documents\Projetos\botMessage\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-015934
+2022/06/08-13:04:20.259 1d0c Recovering log #17648
+2022/06/08-13:04:20.266 1d0c Reusing old log C:\Users\Seven\Documents\Projetos\botMessage\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/017648.log 
+2022/06/08-13:04:33.069 628 Compacting 1@2 + 11@3 files
+2022/06/08-13:04:33.121 628 Generated table #17688@2: 3038 keys, 2164914 bytes
+2022/06/08-13:04:33.176 628 Generated table #17689@2: 3047 keys, 2165044 bytes
+2022/06/08-13:04:33.237 628 Generated table #17690@2: 2936 keys, 2162474 bytes
+2022/06/08-13:04:33.293 628 Generated table #17691@2: 2964 keys, 2164750 bytes
+2022/06/08-13:04:33.347 628 Generated table #17692@2: 3055 keys, 2164436 bytes
+2022/06/08-13:04:33.397 628 Generated table #17693@2: 3144 keys, 2165712 bytes
+2022/06/08-13:04:33.444 628 Generated table #17694@2: 3772 keys, 2158727 bytes
+2022/06/08-13:04:33.485 628 Generated table #17695@2: 3284 keys, 2147624 bytes
+2022/06/08-13:04:33.531 628 Generated table #17696@2: 3198 keys, 2152845 bytes
+2022/06/08-13:04:33.594 628 Generated table #17697@2: 5356 keys, 2151442 bytes
+2022/06/08-13:04:33.597 628 Generated table #17698@2: 100 keys, 43113 bytes
+2022/06/08-13:04:33.597 628 Compacted 1@2 + 11@3 files => 21641081 bytes
+2022/06/08-13:04:33.598 628 compacted to: files[ 0 3 122 57 0 0 0 ]

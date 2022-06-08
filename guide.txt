@@ -1,0 +1,3 @@
+-- Boas vindas e apresentar as opções para o cliente;
+-- Cliente envia a opção que deseja;
+-- Resposta referente a opção do cliente;
